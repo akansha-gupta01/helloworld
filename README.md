@@ -1,5 +1,7 @@
 # helloworld
-just for beigning
-hi
-this is first hello world program.
+just for beigning<"/n"
+
+
+hi<endl>
+this is first hello world program.<"/n">
 thankyou.
